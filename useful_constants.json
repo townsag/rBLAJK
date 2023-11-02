@@ -1,0 +1,8 @@
+{
+    "trigger_secondary_structure": "...((((((((((......))))))))))....................................",
+    "forward_engineered_toehold_switch_sec_struc": "..................(((((((((...((((((...............))))))...)))))))))...(((....)))((((.....))))....",
+    "trigger_switch_complex_sec_struct": "...((((((((((......))))))))))...((((((((((((((((((((((((((((((...+...)))))))))))))))))))))))))))))).......................................(((....)))((((.....))))....",
+    "trigger_sec_struct_colors": "rrryyyyyyyyyybbbbbbyyyyyyyyyybbboooooooooooooooiiiiiiiiiiiiiiibbb",
+    "forward_engineered_toehold_colors": "rrriiiiiiiiiiiiiiioooooooooooooooyyybbbbbbbmmmmmmmmyyyyyymmmyyyyyyyyyrrrrrrrrrrrrrrrrrrrrrgggggggggggg",
+    "trigger_switch_complex_colors": "rrryyyyyyyyyybbbbbbyyyyyyyyyybbboooooooooooooooiiiiiiiiiiiiiiibbbwrrriiiiiiiiiiiiiiioooooooooooooooyyybbbbbbbmmmmmmmmyyyyyymmmyyyyyyyyyrrrrrrrrrrrrrrrrrrrrrgggggggggggg"
+}
